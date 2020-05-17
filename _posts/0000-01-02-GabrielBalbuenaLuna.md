@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+Esta es mi nueva correccion al pull
 Use the left arrow to go back!
